@@ -130,3 +130,11 @@ footer h1{
   font-size: 1.4rem;
   color: #666;
 }
+@media(max-width: 700px){
+  /*.movie{
+    height: 650px;
+  }*/
+  .h1c{
+    font-size: small;
+  }
+}
