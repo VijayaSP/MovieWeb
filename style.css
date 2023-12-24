@@ -132,11 +132,10 @@ footer h1{
 }
 @media(max-width: 700px){
   .movie{
-    height: 650px;
+    height: 600px;
   }
-  .h1c{
-    height: 5px;
-    font-size: 10px;
-  }
-    
+  
+
+
+
 }
